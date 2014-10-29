@@ -1,0 +1,4 @@
+LuaCrypt - a minimal crypt() binding for Lua.
+
+Author: JP Florijn <c.florijn@plugwise.com>
+(C) 2013-2014, Plugwise BV, The Netherlands
